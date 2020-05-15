@@ -39,7 +39,7 @@ def login():
     karna_list = ["Kintughna","Bava","Baalava","Kaulava","Taitila","Gara","Vanija","Vishti","Bava","Balava","Kaulava","Taitila","Gara","Vanija","Vishti","Bava","Balava","Kaulava","Taitila","Gara","Vanija","Vishti","Bava","Balava","Kaulava","Taitila","Gara","Vanija","Vishti","Bava","Balava","Gara","Taitila","Kaulava","Vanija","Vishti",\
         "Bava","Balava","Kaulava","Taitila","Gara","Vanija","Vishti","Bava","Balava","Kaulava","Taitila","Gara","Vanija","Vishti","Bava","Balava","Kaulava","Taitila","Gara","Vanija","Vishti","Shakuni","Chatushpada","Naga"]
 
-    ritu_list = ["Vasant - Spring","Grishma - Summer","Varsha - Monsoon","Sharad - Autumn","Hemant - Pre-winter","Shishir - Winter"]
+    ritu_list = ["వసంత ఋతువు - Spring","గ్రీష్మఋతువు - Summer","వర్షఋతువు - Monsoon","శరదృతువు - Autumn","హేమంతఋతువు - Pre-winter","శిశిరఋతువు - Winter"]
 
     star_start_time = [16.8,19.2,21.6,20.8,15.2,14,21.6,17.6,22.4,21.6,17.6,16.8,18,17.6,15.2,15.2,13.6,15.2,17.6,19.2,17.6,13.6,13.6,16.8,16,19.2,21.6]
 
