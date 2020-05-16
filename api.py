@@ -30,9 +30,9 @@ def login():
 
     tithi_list = ["Padyami","Vidiya","Thadiya","Chaturthi","Panchami","Shashthi","Saptami","Ashtami","Navami","Dasami","Ekadasi","Dvadasi","Trayodasi","Chaturdashi","Amavasya","Padyami","Vidiya","Thadiya","Chaturthi","Panchami","Shashthi","Saptami","Ashtami","Navami","Dasami","Ekadasi","Dvadasi","Trayodasi","Chaturdashi","Pournami"]
 
-    masa_list = ["Chaitra","Vaisakha","Jyeshta","Ashada","Shravana","Bhadrapada","Aswayuja","Kartika","Margasira","Pushya","Magha","Phalguna"]
+    masa_list = ["చైత్ర","వైశాఖ","జ్యేష్ఠమాసం","ఆషాఢ","శ్రావణ","Bhadrapada","ఆశ్వీయుజ","కార్తిక","మార్గశిర","పుష్య","మాఘ","ఫాల్గుణ"]
 
-    vaara_list = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]
+    vaara_list = ["ఆదివారం","సోమవారం","మంగళవారం","బుధవారం","గురువారం","శుక్రవారం","శనివారం"]
 
     yoga_list = ["Vishkumbha","Priti","Ayushman","Saubhagya","Shobhana","Atiganda","Sukarma","Dhriti","Shoola","Ganda","Vriddhi","Dhruva","Vyaghata","Harshana","Vajra","Siddhi","Vyatipata","Variyana","Parigha","Shiva","Siddha","Sadhya","Shubha","Shukla","Brahma","Indra","Vaidhriti"]
 
