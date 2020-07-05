@@ -28,7 +28,7 @@ def login():
 
     star_list = ["Ashwini","Bharani","Krittika","Rohini","Mrigashirsha","Ardra","Punarvasu","Pushya","Ashlesha","Magha","Purva Phalguni","Uttara Phalguni","Hasta","Chitra","Svati","Visakha","Anuradha","Jyeshtha","Mula","Purva ashadha","Uttara ashada","Sravana","Dhanistha","Shatabhisha","Purva Bhadrapada","Uttara Bhadrapada","Revati"]
 
-    tithi_list = ["Padyami","Vidiya","Thadiya","Chaturthi","Panchami","Shashthi","Saptami","Ashtami","Navami","Dasami","Ekadasi","Dvadasi","Trayodasi","Chaturdashi","Amavasya","Padyami","Vidiya","Thadiya","Chaturthi","Panchami","Shashthi","Saptami","Ashtami","Navami","Dasami","Ekadasi","Dvadasi","Trayodasi","Chaturdashi","Pournami"]
+    tithi_list = ["Padyami","Vidiya","Thadiya","Chaturthi","Panchami","Shashthi","Saptami","Ashtami","Navami","Dasami","Ekadasi","Dvadasi","Trayodasi","Chaturdashi","Paurnami","Padyami","Vidiya","Thadiya","Chaturthi","Panchami","Shashthi","Saptami","Ashtami","Navami","Dasami","Ekadasi","Dvadasi","Trayodasi","Chaturdashi","Amavasya"]
 
     masa_list = ["చైత్ర","వైశాఖ","జ్యేష్ఠమాసం","ఆషాఢ","శ్రావణ","Bhadrapada","ఆశ్వీయుజ","కార్తిక","మార్గశిర","పుష్య","మాఘ","ఫాల్గుణ"]
 
